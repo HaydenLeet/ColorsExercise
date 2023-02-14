@@ -1,0 +1,63 @@
+/* Color Name */
+h1 {
+    color:royalblue;
+    /* Bonus */
+    background-color: #ff0000;
+}
+
+/* Hexadecimal */
+h2 {
+    color: #BB6092;
+    /* Bonus */
+    background-color: rgb(255, 165, 0);
+}
+
+/* Hexadecimal Shorthand */
+h3 {
+    color: #ABC;
+    /* Bonus */
+    background-color: #ff0;
+}
+
+/* Hexadecimal with Transparency */
+h4 {
+    color: #f6033454;
+    /* Bonus */
+    background-color: #008000;
+}
+
+/* Hexadecimal with Transparency Shorthand */
+h5 {
+    color: #E90;
+    /* Bonus */
+    background-color: rgb(0, 0, 255);
+}
+
+/* RGB */
+h6 {
+    color: rgb(0, 0, 139);
+    /* Bonus */
+    background-color: rgb(75, 0, 130, 0.5);
+}
+
+/* RGBA */
+p {
+    color: rgba(115, 245, 115, 0.8);
+    background-color: #ee82ee;
+}
+
+/* Bonus 3 */
+#firstItem{
+    color: hotpink;
+}
+
+/* Bonus 4 */
+#thirdItem{
+    background-color: peachpuff;
+}
+
+/* Bonus 5 */
+
+.liBorder{
+    border: 5px solid green
+}
